@@ -1,6 +1,6 @@
 echo -e "clear" >> /data/data/com.termux/files/usr/etc/bash.bashrc
 echo -e "date | lolcat" >> /data/data/com.termux/files/usr/etc/bash.bashrc
-echo -e "figlet SLAWA UKRAINI | lolcat" /data/data/com.termux/files/usr/etc/bash.bashrc
+echo -e "figlet SLAWA UKRAINI | lolcat" >> /data/data/com.termux/files/usr/etc/bash.bashrc
 echo -e 'echo -e  "\033[0;34m
                                    7~
                                    ~+~
